@@ -31,4 +31,4 @@
 
 ## 📫 Contact Me
 - Email: ahmedalhloul97@gmail.com  
-- LinkedIn: https://[ahmed-alhloul](https://www.linkedin.com/in/ahmed-alhloul-32018517a/)
+- LinkedIn: [ahmed-alhloul](https://www.linkedin.com/in/ahmed-alhloul-32018517a/)
