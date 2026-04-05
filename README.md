@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**ahmedalhloul97/ahmedalhloul97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Mechatronics Engineer specializing in Embedded Systems, Systems Integration, and PCB Design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Working on embedded systems and hardware integration  
+- ⚡ Interested in microcontrollers and real-world system design  
+- 🧠 Hands-on experience in building and troubleshooting electronic systems  
+- 📍 Based in Jordan  
+
+---
+
+## 🛠️ Tech & Skills
+- Embedded C / C++
+- Microcontroller-based systems
+- Single-board computers
+- PCB Design
+- Hardware Integration
+- Basic Python
+
+---
+
+## 📌 What I Work On
+- 🔌 Embedded control systems  
+- 🧩 Systems integration projects  
+- 🧪 Hardware testing and debugging  
+
+---
+
+## 📫 Contact Me
+- Email: ahmedalhloul97@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/ahmed-alhloul
